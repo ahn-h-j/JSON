@@ -1,0 +1,20 @@
+{
+    "CPU" : "I7",
+    "Computer" : 
+    {
+        "Cable" : [ "Power", "Printer", "Mouse" ],
+        "Number" : 
+        {
+            "Bool" : true,
+            "Double" : 456.012,
+            "Int" : 123
+        }
+    },
+    "HDD" : "2TB",
+    "Program" : 
+    {
+        "C++" : "Visual Studio",
+        "Python" : "IDLE"
+    },
+    "RAM" : "16G"
+}

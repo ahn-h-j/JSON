@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\tkgkd\Desktop\Project1\Project1\FileName.cpp(14,17): warning C4129: 'J': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\tkgkd\Desktop\Project1\Project1\FileName.cpp(55,20): warning C4129: 'J': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\tkgkd\Desktop\Project1\Project1\FileName.cpp(104,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Project1.vcxproj -> C:\Users\tkgkd\Desktop\Project1\x64\Debug\Project1.exe
